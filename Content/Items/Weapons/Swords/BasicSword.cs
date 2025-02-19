@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace TheStreets.Content.Items
+namespace TheStreets.Content.Items.Weapons.Swords
 { 
 	// This is a basic item template.
 	// Please see tModLoader's ExampleMod for every other example:
@@ -16,7 +16,7 @@ namespace TheStreets.Content.Items
 			Item.DamageType = DamageClass.Melee;
 			Item.width = 40;
 			Item.height = 40;
-			Item.useTime = 20;
+			Item.useTime = 5;
 			Item.useAnimation = 20;
 			Item.useStyle = ItemUseStyleID.Swing;
 			Item.knockBack = 6;

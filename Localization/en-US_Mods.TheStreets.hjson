@@ -10,4 +10,18 @@ Items: {
 			It's snowing on Mt.Fuji
 			'''
 	}
+
+	StarterBag: {
+		DisplayName: Starter Bag
+		Tooltip:
+			'''
+			Starter bag to speed up early game
+			"i hate early game" - jerry
+			'''
+	}
+
+	Pick: {
+		DisplayName: Pick
+		Tooltip: I like fast pickaxes
+	}
 }
